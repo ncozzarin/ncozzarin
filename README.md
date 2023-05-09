@@ -1,18 +1,14 @@
-### Hi there 👋
 
-<!--
-**ncozzarin/ncozzarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm a frontend dev with a thing for AI and a love-hate relationship with crypto and blockchain.
 
-Here are some ideas to get you started:
+💪 My main stack is React.js , Node.js and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spend my days building slick web apps that look like they were made by magic. But when I'm feeling adventurous, I dabble in smart contract dev and other blockchain shenanigans using Solidity, Web3.js, and Truffle.
+
+I'm always learning and growing in this wild, wild industry. So if you're looking for someone who can bring some creativity and expertise to the table, look no further.
+
+Feel free to poke around my code and give me a shout if you wanna talk shop or swap cat memes. Cheers!
+
+
 
 
