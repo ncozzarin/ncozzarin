@@ -1,5 +1,5 @@
 
-Hey there! 👋 I'm a frontend dev with a thing for AI 🤖 and a love-hate relationship with crypto and blockchain 💰🔗.
+Hey there! 👋 I'm a Project manager & frontend dev with a thing for AI 🤖 and a love-hate relationship with crypto and blockchain 💰🔗.
 
 💪 My main stack is React.js , Node.js and MySQL.
 
